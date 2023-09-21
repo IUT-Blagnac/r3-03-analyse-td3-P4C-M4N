@@ -1,3 +1,5 @@
+Thomas Silvestre
+
 = Traçabilité exigences - code
 :icons: font
 :MoSCoW: https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW[MoSCoW]
